@@ -30,3 +30,21 @@ WriteLine(_sqrt_recursion(16));
 WriteLine(_sqrt_recursion(17));
 WriteLine(_sqrt_recursion(25));
 WriteLine(_sqrt_recursion(-1));
+
+
+WriteLine("\n\nTask 6");
+WriteLine(is_prime_number(1));
+WriteLine(is_prime_number(1024));
+WriteLine(is_prime_number(16));
+WriteLine(is_prime_number(17));
+WriteLine(is_prime_number(25));
+WriteLine(is_prime_number(-1));
+WriteLine(is_prime_number(113));
+WriteLine(is_prime_number(7919));
+
+
+WriteLine("\n\nTask 7");
+WriteLine(is_palindrome("level"));
+WriteLine(is_palindrome("redder"));
+WriteLine(is_palindrome("test"));
+WriteLine(is_palindrome("step on no pets"));

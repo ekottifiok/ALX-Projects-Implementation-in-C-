@@ -75,4 +75,39 @@
         }
         return iter;
     }
+
+    static int is_prime_number(int n, int max = 0)
+    {
+        if (n <= 1)
+        {
+            return 0;
+        }
+        else if (max == 0)
+        {
+            max = n / 2;
+        }
+        else if (max == 1)
+        {
+            return 1;
+        }
+        if ((n % max == 0 && max > 0) || max <= 0)
+        {
+            return 0;
+        }
+        return is_prime_number(n, max - 1);
+    }
+
+    static int is_palindrome(string s, int iter = 0)
+    {
+        int len = _strlen_recursion(s);
+        if (iter >= len/2)
+        {
+            return 1;
+        }
+        else if (s[iter] != s[len-iter-1])
+        {
+            return 0;
+        }
+        return is_palindrome(s, iter + 1);
+    }
 }
