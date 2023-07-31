@@ -1,0 +1,15 @@
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\bin\Debug\net6.0\0x08-recursion.exe
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\bin\Debug\net6.0\0x08-recursion.deps.json
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\bin\Debug\net6.0\0x08-recursion.runtimeconfig.json
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\bin\Debug\net6.0\0x08-recursion.dll
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\bin\Debug\net6.0\0x08-recursion.pdb
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\0x08-recursion.csproj.AssemblyReference.cache
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\0x08-recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\0x08-recursion.AssemblyInfoInputs.cache
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\0x08-recursion.AssemblyInfo.cs
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\0x08-recursion.csproj.CoreCompileInputs.cache
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\0x08-recursion.dll
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\refint\0x08-recursion.dll
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\0x08-recursion.pdb
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\0x08-recursion.genruntimeconfig.cache
+C:\Users\ifiokekott\source\repos\ALX_C#\alx-low_level_programming\alx-low_level_programming\0x08-recursion\obj\Debug\net6.0\ref\0x08-recursion.dll
